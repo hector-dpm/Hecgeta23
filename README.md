@@ -52,14 +52,14 @@
 ### 🔹 Proyecto 1 — *Título del proyecto*
 Descripción breve del proyecto. Explica qué hace y qué tecnologías usaste.  
 🔗 **Demo:** https://  
-📂 **Repo:** https://github.com/your-username/proyecto1  
+📂 **Repo:** https://github.com/Hecgeta23/proyecto1  
 
 ---
 
 ### 🔹 Proyecto 2 — *Título del proyecto*
 Explica desafíos, herramientas y objetivo del proyecto.  
 🔗 **Demo:** https://  
-📂 **Repo:** https://github.com/your-username/proyecto2  
+📂 **Repo:** https://github.com/Hecgeta23/proyecto2  
 
 ---
 
