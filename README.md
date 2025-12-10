@@ -39,11 +39,16 @@
 
 ---
 
+
 ## 🏆 Logros & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hecgeta23&theme=tokyonight&no-bg=true&margin-w=10&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Hecgeta23&theme=tokyonight&no-bg=true&margin-w=10&row=1" 
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
